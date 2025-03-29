@@ -11,12 +11,13 @@
 @font-face {
   font-family: 'fskim';
   font-display: swap;
-  src: url('/assets/fonts/fs-kim-text-w03-medium.woff2') format('woff2');
+  src: url('src: url('https://cdn.jsdelivr.net/gh/goldensaffronofficial/goldensaffron-assets/assets/fonts/fs-kim-text-w03-medium.woff2') format('woff2');
+') format('woff2');
 }
 @font-face {
   font-family: 'an';
   font-weight: 900;
-  src: url('/assets/fonts/an-solid-900.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/goldensaffronofficial/goldensaffron-assets/assets/fonts/an-solid-900.woff2') format('woff2');
   font-display: swap;
 }
 
